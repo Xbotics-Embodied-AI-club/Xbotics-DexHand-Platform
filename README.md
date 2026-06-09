@@ -41,10 +41,7 @@ https://Halloweenpink.github.io/Xbotics_dexhand_repo_demo
 | 周岱 | 核心贡献者 | Xbotics 灵心巧手合作线上线下实训营优秀作业贡献 |
 
 ## 参与贡献
-
-- 如果你发现了一些问题，可以提Issue进行反馈，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-- 如果你想参与贡献本项目，可以提Pull Request，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-- 如果你对 Datawhale 很感兴趣并想要发起一个新的项目，请按照[Datawhale开源项目指南](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)进行操作即可~
+- 如果你想参与贡献本项目，可以联系我们
 
 ## 关注我们
 
@@ -56,3 +53,4 @@ https://Halloweenpink.github.io/Xbotics_dexhand_repo_demo
 ## LICENSE
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
+- 基于 DataWhale 开源[模版](https://github.com/datawhalechina/DOPMC/blob/main/OP.md) 构建
