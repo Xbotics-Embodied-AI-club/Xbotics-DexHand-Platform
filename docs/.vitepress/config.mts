@@ -5,7 +5,7 @@ import { defineConfig } from 'vitepress'
 // 如果环境变量 EDGEONE 等于 '1'，说明在 EdgeOne 环境，使用根路径 '/'
 // 否则默认是 GitHub Pages 环境，使用仓库子路径 '/Xbotics_dexhand_repo_demo/'
 const isEdgeOne = process.env.EDGEONE === '1'
-const baseConfig = isEdgeOne ? '/' : '/Xbotics_dexhand_repo_demo/'
+const baseConfig = isEdgeOne ? '/' : '/Xbotics-DexHand-Platform/'
 
 export default defineConfig({
   lang: 'zh-CN',
@@ -20,7 +20,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.jpg',
     nav: [
-      { text: 'PDF版本下载', link: 'https://github.com/Halloweenpink/Xbotics_dexhand_repo_demo/releases' },
+      { text: 'PDF版本下载', link: 'https://github.com/xbotics-embodied-ai-club.github.io/Xbotics-DexHand-Platform/releases' },
     ],
     search: {
       provider: 'local',
