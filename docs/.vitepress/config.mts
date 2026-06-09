@@ -61,11 +61,11 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Halloweenpink/Xbotics_dexhand_repo_demo' }
+      { icon: 'github', link: 'https://github.com/xbotics-embodied-ai-club.github.io/Xbotics-DexHand-Platform' }
     ],
 
     editLink: {
-      pattern: 'https://github.com/Halloweenpink/Xbotics_dexhand_repo_demo/blob/main/docs/:path'
+      pattern: 'https://github.com/xbotics-embodied-ai-club.github.io/Xbotics-DexHand-Platform/blob/main/docs/:path'
     },
 
     footer: {
