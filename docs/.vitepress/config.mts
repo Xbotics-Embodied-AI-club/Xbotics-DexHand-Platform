@@ -20,7 +20,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.jpg',
     nav: [
-      { text: 'PDF版本下载', link: 'https://github.com/xbotics-embodied-ai-club.github.io/Xbotics-DexHand-Platform/releases' },
+      { text: 'PDF版本下载', link: 'https://github.com/xbotics-embodied-ai-club/Xbotics-DexHand-Platform/releases' },
     ],
     search: {
       provider: 'local',
@@ -61,11 +61,11 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/xbotics-embodied-ai-club.github.io/Xbotics-DexHand-Platform' }
+      { icon: 'github', link: 'https://github.com/xbotics-embodied-ai-club/Xbotics-DexHand-Platform' }
     ],
 
     editLink: {
-      pattern: 'https://github.com/xbotics-embodied-ai-club.github.io/Xbotics-DexHand-Platform/blob/main/docs/:path'
+      pattern: 'https://github.com/xbotics-embodied-ai-club/Xbotics-DexHand-Platform/blob/main/docs/:path'
     },
 
     footer: {

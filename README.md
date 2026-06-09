@@ -11,7 +11,7 @@
 
 ## 在线阅读
 
-https://Halloweenpink.github.io/Xbotics_dexhand_repo_demo
+https://xbotics-embodied-ai-club.github.io/Xbotics-DexHand-Platform/
 
 ## 目录
 
